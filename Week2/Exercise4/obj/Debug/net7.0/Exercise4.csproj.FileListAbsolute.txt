@@ -1,0 +1,15 @@
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/bin/Debug/net7.0/Exercise4
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/bin/Debug/net7.0/Exercise4.deps.json
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/bin/Debug/net7.0/Exercise4.runtimeconfig.json
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/bin/Debug/net7.0/Exercise4.dll
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/bin/Debug/net7.0/Exercise4.pdb
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.csproj.AssemblyReference.cache
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.AssemblyInfoInputs.cache
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.AssemblyInfo.cs
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.csproj.CoreCompileInputs.cache
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.dll
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/refint/Exercise4.dll
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.pdb
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/Exercise4.genruntimeconfig.cache
+/home/kerry91warnes/C#AndUnity/Week2/Exercise4/obj/Debug/net7.0/ref/Exercise4.dll
